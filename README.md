@@ -1,4 +1,4 @@
-# Rohilla-Store-Analysis-Project--EXCEL
+# Store data analysis and Dashboard-Project--EXCEL
             Rohilla Store Data Analysis and Dashboard:
          The Rohilla Store Data Analysis and Dashboard Creation project focuses on analyzing sales and inventory data from Rohilla Store to gain valuable insights into business performance, customer behavior, and operational efficiency. The project involves cleaning the raw data, performing detailed analysis, and creating a dynamic dashboard to visualize key metrics and trends, ultimately helping stakeholders make informed decisions to improve the store's operations and sales strategies.
          Data Collection and Raw Data Import:
